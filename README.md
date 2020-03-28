@@ -1,7 +1,7 @@
-# Be The Hero (Seja o herói) - OmniStack 11.0
+# Be The Hero (Seja O Herói) - OmniStack 11.0
 
 ##### Sistema para doações de dinheiro para organizações que ajudam animais.
-##### Projeto desenvolvido em NodeJS, ReactJs e React-Native (Backend, Frontend e Mobile).
+##### Projeto desenvolvido em NodeJS, ReactJS e React-Native (Backend, Frontend e Mobile).
 
 - Backend API;
 - Web como gerenciamento de casos da organização;
